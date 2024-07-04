@@ -1,5 +1,5 @@
 <script setup>
-import FormComponent from "/src/components/FormComponent.vue";
+import FormComponent from "/src/Components/FormComponent.vue";
 </script>
 
 <template>
@@ -62,7 +62,7 @@ img{
   border-radius: 30%;
 }
 .formulaire{
-  
+  margin-top: 15px;
   background-color: rgb(245, 243, 241);
   padding: 2%;
   max-width: 100%;
