@@ -2,15 +2,29 @@
 </script>
 
 <template>
-  <div>
+  <div class="body">
     <h1>Liste des courses</h1>
-    <form action="">
-      <label>Ajouter une course</label><br />
-      <input type="text" placeholder="Entrer une course" />
-      <button>Soumettre</button>
-    </form>
+    <div class="corpus">
+      <form>
+        <label>Ajouter une course</label><br />
+        <input type="text" placeholder="Entrer une course" />
+        <button>Soumettre</button>
+      </form>
+    </div>
   </div>
 </template>
 
 <style scoped>
+.body{
+  background-color: white;
+}
+h1{
+  text-align: left;
+}
+.corpus {
+  text-align: center;
+  padding-top: 1rem;
+}
+
+
 </style>
