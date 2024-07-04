@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Acceuil from '../views/Acceuil.vue'
-import FormComponent from "../Components/FormComponent.vue";
+import FormComponent from "@/Components/FormComponent.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),

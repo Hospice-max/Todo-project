@@ -62,7 +62,7 @@ img{
   border-radius: 30%;
 }
 .formulaire{
-  
+  margin-top: 15px;
   background-color: rgb(245, 243, 241);
   padding: 2%;
   max-width: 100%;
