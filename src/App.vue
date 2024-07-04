@@ -1,9 +1,10 @@
 <script setup>
-import { RouterView } from 'vue-router'
+import FormComponent from "./Components/FormComponent.vue";
 </script>
 
 <template>
-  <RouterView />
+
+<FormComponent />
 </template>
 
 <style scoped>
