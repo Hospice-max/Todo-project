@@ -1,4 +1,5 @@
 <script setup>
+
 </script>
 
 <template>
@@ -18,6 +19,7 @@
         <table>
           <tr>
             <th>✔✔✔</th>
+            <th>ID</th>
             <th>Tâches</th>
             <th>Action</th>
           </tr>
@@ -25,6 +27,7 @@
             <td>
               <input type="checkbox">
             </td>
+            <td>1</td>
             <td>A faire</td>
             <td><button>Add</button> <button>Modif</button></td>
           </tr>
@@ -98,8 +101,12 @@ th, td {
   padding: 5px;
   text-align: left;
 }
+td{
+  padding: 15px;
+}
 th{
   background-color: rgb(249, 230, 199);
+  text-align: center;
 }
 
 </style>
