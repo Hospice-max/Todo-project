@@ -66,8 +66,8 @@ img{
   background-color: rgb(245, 243, 241);
   padding: 2%;
   max-width: 100%;
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 25%;
+  margin-right: 25%;
   
 }
 input{
