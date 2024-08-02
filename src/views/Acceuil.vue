@@ -1,5 +1,6 @@
 <script setup>
 import FormComponent from "/src/Components/FormComponent.vue";
+
 </script>
 
 <template>
@@ -14,7 +15,7 @@ import FormComponent from "/src/Components/FormComponent.vue";
     <div>
       <form>
         <label>Nom:</label>
-        <input type="text" placeholder=".................">
+        <input type="text" placeholder="................">
       </form>
       <form>
         <label>Email:</label>
