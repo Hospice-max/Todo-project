@@ -41,7 +41,7 @@ import FormComponent from "/src/Components/FormComponent.vue";
 .body {
   position: relative;
   box-sizing: border-box;
-  padding: 15px;
+  padding: 16px;
   max-width: 100%;
   text-align: center;
   background-color: rgb(73, 73, 231);
