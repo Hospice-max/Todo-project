@@ -41,7 +41,7 @@ const supprimerTache = (index) => {
       <table>
         <thead>
           <tr>
-            <th>✔✔✔</th>
+            <th>✔✔</th>
             <th>ID</th>
             <th>Tâches</th>
             <th>Action</th>
