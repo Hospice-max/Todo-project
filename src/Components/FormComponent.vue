@@ -80,7 +80,7 @@ const supprimerTache = (index) => {
   left: 0;
   right: 0;
   text-align: center;
-  background-color: rgb(83, 236, 223);
+  background-color: rgb(73, 73, 231);
 }
 .button{
   display: flex;
@@ -98,12 +98,12 @@ const supprimerTache = (index) => {
   padding: 5px;
   background-color: rgb(252, 248, 241);
   ;
-  border: 1px solid rgb(45, 145, 238);
+  border: 1px solid rgb(73, 73, 231);
 }
 
 .submit {
   padding: 6px;
-  background-color: rgb(45, 145, 238);
+  background-color: rgb(73, 73, 231);
   color: white;
   font-weight: bold;
   border: none;
